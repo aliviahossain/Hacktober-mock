@@ -14,3 +14,4 @@ System.out.println("Chances of smoke due to fire: "+c);
 }
 scanner.close();
 }
+// test 
